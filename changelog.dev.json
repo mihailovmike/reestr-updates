@@ -1,5 +1,15 @@
 [
   {
+    "id": "reestr-next-dev-d782ae0f6584854b89d1708b51f6f67b9496eeca",
+    "date": "2026-07-16",
+    "time": "23:55",
+    "version": "v0.3.0-dev",
+    "revision": "d782ae0f6584",
+    "title": "add job title dropdown",
+    "body": "Сборка d782ae0f6584 успешно развернута.",
+    "severity": "info"
+  },
+  {
     "id": "reestr-next-dev-2fc988290e8d41fc5eb3ac9b161ebe9edc108af9",
     "date": "2026-07-16",
     "time": "23:53",
