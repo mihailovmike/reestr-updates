@@ -1,5 +1,15 @@
 [
   {
+    "id": "reestr-next-dev-2fc988290e8d41fc5eb3ac9b161ebe9edc108af9",
+    "date": "2026-07-16",
+    "time": "23:53",
+    "version": "v0.3.0-dev",
+    "revision": "2fc988290e8d",
+    "title": "automate versioned update feeds",
+    "body": "Сборка 2fc988290e8d успешно развернута.",
+    "severity": "info"
+  },
+  {
     "id": "2026-07-08-company-filter",
     "date": "2026-07-08",
     "time": "14:30",
