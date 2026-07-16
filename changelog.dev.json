@@ -1,5 +1,15 @@
 [
   {
+    "id": "reestr-next-dev-998c072193e1b92431ca0618a06e3715ffce5772",
+    "date": "2026-07-16",
+    "time": "23:57",
+    "version": "v0.3.0-dev",
+    "revision": "998c072193e1",
+    "title": "Merge branch 'dev' of https://github.com/mihailovmike/reestr-next into dev",
+    "body": "Сборка 998c072193e1 успешно развернута.",
+    "severity": "info"
+  },
+  {
     "id": "reestr-next-dev-d782ae0f6584854b89d1708b51f6f67b9496eeca",
     "date": "2026-07-16",
     "time": "23:55",
